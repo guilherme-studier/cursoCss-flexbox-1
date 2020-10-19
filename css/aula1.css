@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: red;
+}
+
+.container{
+    width: 250px;
+}
+
+.item{
+    border: 1px solid #fff;
+}
+
+.flex{
+    display: flex;
+}
+
+.row{
+    flex-direction: row;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.column-reverse{
+    flex-direction: column-reverse;
+}
+
+/* END AULA 1 */
+

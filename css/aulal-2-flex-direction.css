@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+.container{
+    width: 250px;
+}
+
+.item{
+    border: 1px solid #000;
+}
+
+.flex-start{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex-end{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+
+/* END AULA 2 */
+

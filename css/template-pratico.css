@@ -1,0 +1,29 @@
+body{
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+#header{
+    display: flex;
+    flex: 1;
+    background-color: red;
+    min-height: 3.5em;
+}
+
+#main{
+    display: flex;
+    height: 100%;
+}
+
+.sidebar{
+    flex: 1;
+    background-color: blue;
+}
+
+.content{
+    flex: 3;
+    background-color: rosybrown;
+}
